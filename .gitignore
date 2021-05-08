@@ -23,3 +23,7 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# NODE_ENV = development
+# PORT = 5000
+# MONGO_URI = mongodb+srv://proshop:proshop@cluster0.6uos0.mongodb.net/proshop?retryWrites=true&w=majority
